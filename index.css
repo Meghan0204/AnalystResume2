@@ -125,7 +125,7 @@ page {
   margin-bottom: 0.5cm;
 }
 
-page[size="A4"] {  
+page[size="A0"] {  
   width: 21cm;
   height: 29.7cm; 
 }
